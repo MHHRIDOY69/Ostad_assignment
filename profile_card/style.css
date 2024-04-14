@@ -1,0 +1,25 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 580px;
+}
+.card{
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(182, 176, 176);
+    height: 400px;
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid;
+    box-shadow: 5px 5px 5px grey;
+}
+img{
+    margin-top: 10px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+.contact_color{
+    color: #6e1616;
+}
